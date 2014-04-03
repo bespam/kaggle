@@ -1,9 +1,9 @@
-""" Writing my first randomforest code.
-Author : AstroDave
-Date : 23rd September, 2012
-please see packages.python.org/milk/randomforests.html for more
-
 """ 
+Use of random forest for classification
+K-fold CrossValidation + GridSearch CrossValidation
+Training a Decision Tree to substitute the null age values
+Results are compared to RapidMiner.
+"""
 
 def train():
 
